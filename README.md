@@ -1,1 +1,2 @@
 # Processing_visual_experience
+Processingで作成した作品のコード集です。
